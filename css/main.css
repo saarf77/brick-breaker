@@ -12,3 +12,12 @@ canvas {
     justify-content: center;
     align-items: center;
 }
+
+
+@media (max-width: 600px) {
+    #myCanvas{
+        width: 99vw;
+        height: 60vh;
+    }
+
+}
