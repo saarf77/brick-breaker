@@ -1,0 +1,14 @@
+body {
+    background-image: linear-gradient(#f4a261, #e9c46a, #e76f51);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    padding-top: 10vh;
+    background-color: #6d6875;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
